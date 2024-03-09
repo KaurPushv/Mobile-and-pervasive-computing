@@ -1,0 +1,9 @@
+The app FoodCorner will save the following information of the user into the database
+
+1) Name of the user.
+2) Email address of the user. 
+3) Password set by the user while signing Up. 
+4) Recipe Picture they upload.
+5) Likes on the posts and comments. 
+6) All the discussion topics in which user participated. 
+7) There following and followers. 
