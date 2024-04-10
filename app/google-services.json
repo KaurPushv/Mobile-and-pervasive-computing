@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "896670787866",
+    "project_id": "food-corner-dfae7",
+    "storage_bucket": "food-corner-dfae7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896670787866:android:3c58800f400eff952064a3",
+        "android_client_info": {
+          "package_name": "com.example.foodcorner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDah0eugZM9_vLRBcifD3kPu_paJaneGiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
